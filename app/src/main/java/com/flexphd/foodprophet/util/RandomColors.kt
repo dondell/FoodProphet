@@ -1,7 +1,7 @@
-package com.dmj.moneytool.presentation.util
+package com.flexphd.foodprophet.util
 
 import androidx.compose.ui.graphics.toArgb
-import com.dmj.moneytool.ui.theme.LightGray
+import com.flexphd.foodprophet.ui.theme.LightGray
 import java.util.*
 
 open class RandomColors {
